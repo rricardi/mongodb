@@ -1,0 +1,8 @@
+{
+	"port": 55862,
+	"mongodb": "mongodb://",
+	"user": "someuser",
+	"password": "teste123",
+	"host": "ds155862.mlab.com",
+	"database": "productstutorial"
+}
